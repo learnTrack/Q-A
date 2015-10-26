@@ -1,13 +1,13 @@
 # Q-A
 
 ## What?
-List of precise questions and answers.
+List of specific questions and answers.
 
 ## Why?
-It is our reminder of knowledge that we must know. 
+This will act as a remainder of what we have covered in our development journey. ALso, to act as a reference point for future requirements.  
 
 ## How?
-Simply create an issue with precise question to be short answered. 
+Simply create an issue with specific question. If you know the answer of your question you can assign someone else to encourage their learning expierence. You can also answer your own question if you feel like you can offer a better perspective or you are not sure of the answer yourself. 
 
 
 
