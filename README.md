@@ -1,5 +1,6 @@
 # Q-A
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/learnTrack/Q-A/issues)
+[![HitCount](https://hitt.herokuapp.com/learnTrack/Q-A.svg)](https://github.com/learnTrack/Q-A)
 
 ## What?
 List of specific questions and answers.
