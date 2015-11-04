@@ -13,6 +13,8 @@ This will act as a **reminder** of what we have covered in our **development jou
 
 Don't forget to add a **label** that corresponds to the question. If the label for your question doesn't exist feel free to create one.
 
+**If you know the answer on question which hasn't been answered yet feel free to contribute**
+
 **Have fun learning!!**
 
 ## Contributors
